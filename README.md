@@ -1,0 +1,2 @@
+# Hand-Written-Digit-Recogniser
+A simple fully-connected neural network for recognizing hand written digit recognition images using TensorFlow and python.
